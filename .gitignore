@@ -1,0 +1,4 @@
+.vscode
+# 忽略day_*文件夹内除cpp文件外的所有文件
+day_*/*
+!day_*/*.cpp
